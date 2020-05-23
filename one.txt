@@ -1,1 +1,1 @@
-Hi there! This file is for my git and git hub project.
+Hi there! This file is for my git and git hub project. I have added a new line to this file.
